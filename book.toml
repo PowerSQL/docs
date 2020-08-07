@@ -1,0 +1,6 @@
+[book]
+authors = ["Heres, Daniel"]
+language = "en"
+multilingual = false
+src = "src"
+title = "PowerSQL"
