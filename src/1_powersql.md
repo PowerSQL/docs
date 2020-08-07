@@ -8,9 +8,8 @@ PowerSQL helps you improving the quality of your data and code in the following 
 
 * Automatic syntax and type checks based on your code. This helps mistakes from reaching
 * Expressive data tests using `ASSERT`-tests.
-* Pure SQL, makes it easy to integrate with existing tooling like formatters and 
-
-PowerSQL currently supports BigQuery and PostgreSQL as backends. 
+* Pure SQL, makes it easy to integrate with existing tooling like formatters and
+  PowerSQL currently supports BigQuery and PostgreSQL as backends.
 
 PowerSQL is fully open source, you can find it on
-[GitHub](https://github.com/Dandandan/PowerSQL)
+[GitHub](<https://github.com/Dandandan/PowerSQL>)
