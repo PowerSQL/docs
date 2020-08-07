@@ -10,4 +10,4 @@ To edit run:
 mdbook serve
 ```
 
-Please installrun the pre-commit hooks before creating a pull request, this will format the markdown files.
+Please install/run the pre-commit hooks before creating a pull request, this will format the markdown files.
