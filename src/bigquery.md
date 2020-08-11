@@ -2,9 +2,9 @@
 
 To run against the database, provide the following environment variables:
 
-- GOOGLE_APPLICATION_CREDENTIALS
-- PROJECT_ID
-- DATASET_ID
+- GOOGLE\_APPLICATION\_CREDENTIALS
+- PROJECT\_ID
+- DATASET\_ID
 - LOCATION
 
 `GOOGLE_APPLICATION_CREDENTIALS` should refer to an service account key file (this can be set by an appliation rather than locally).

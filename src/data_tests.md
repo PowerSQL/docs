@@ -1,4 +1,3 @@
-
 ## Data tests
 
 Data tests are `ASSERT` statements that you can run on your database tables and views and perform checks on data quality, recency, etc. Assert statements checks the result of a condition - a boolean expression.
@@ -6,7 +5,8 @@ Assert-based testing are enabled for every backend, they are translated by Power
 boolean.
 
 Some examples:
-```sql
+
+~~~sql
 -- Column should be NOT NULL
 ASSERT NOT EXISTS(
   SELECT X
@@ -31,4 +31,4 @@ ASSERT (
     SELECT COUNT(*)
     FROM rev_per_product
 ) AS 'At least 70% should have a quantity lower than 10'
-```
+~~~
